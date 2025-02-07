@@ -35,6 +35,7 @@ public class vpnConnector {
 
     static {
         loadConfiguration();
+//        printConfigurationValues();
     }
 
     private static void loadConfiguration() {
@@ -51,15 +52,34 @@ public class vpnConnector {
             MAX_LON = Double.parseDouble(properties.getProperty("MAX_LON"));
             GPS_TIMEOUT = Integer.parseInt(properties.getProperty("GPS_TIMEOUT", "10")); // Default to 10 seconds
             LOG_DIRECTORY = properties.getProperty("LOG_DIRECTORY", "logs"); // Default directory
-            SPEED_TEST_SERVER = properties.getProperty("SPEED_TEST_SERVER");
+            SPEED_TEST_SERVER = properties.getProperty("SPEED_TEST_SERVER","192.168.20.63");
             NUM_SPEED_TESTS = Integer.parseInt(properties.getProperty("NUM_SPEED_TESTS", "5")); // Default to 5
             SPEED_TEST_INTERVAL = Integer.parseInt(properties.getProperty("SPEED_TEST_INTERVAL", "10000")); // Default to 10 seconds
-            SPEED_TEST_TIMEOUT = properties.getProperty(properties.getProperty("SPEED_TEST_TIMEOUT", "5")); // Default to 5 seconds
+            SPEED_TEST_TIMEOUT = properties.getProperty("SPEED_TEST_TIMEOUT", "5"); // Default to 5 seconds
             DATA_SENDER_JAR = properties.getProperty("DATA_SENDER_JAR");
         } catch (IOException e) {
             log("Fout bij het laden van de configuratie: " + e.getMessage());
             System.exit(1);
         }
+    }
+
+    private static void printConfigurationValues() {
+        System.out.println("Configuration Values Loaded:");
+        System.out.println("WIREGUARD_CMD = " + WIREGUARD_CMD);
+        System.out.println("CONFIG_PATH = " + CONFIG_PATH);
+        System.out.println("GPS_IP = " + GPS_IP);
+        System.out.println("GPS_PORT = " + GPS_PORT);
+        System.out.println("MIN_LAT = " + MIN_LAT);
+        System.out.println("MAX_LAT = " + MAX_LAT);
+        System.out.println("MIN_LON = " + MIN_LON);
+        System.out.println("MAX_LON = " + MAX_LON);
+        System.out.println("GPS_TIMEOUT = " + GPS_TIMEOUT);
+        System.out.println("LOG_DIRECTORY = " + LOG_DIRECTORY);
+        System.out.println("SPEED_TEST_SERVER = " + SPEED_TEST_SERVER);
+        System.out.println("NUM_SPEED_TESTS = " + NUM_SPEED_TESTS);
+        System.out.println("SPEED_TEST_INTERVAL = " + SPEED_TEST_INTERVAL);
+        System.out.println("SPEED_TEST_TIMEOUT = " + SPEED_TEST_TIMEOUT);
+        System.out.println("DATA_SENDER_JAR = " + DATA_SENDER_JAR);
     }
 
     private static void log(String message) {
