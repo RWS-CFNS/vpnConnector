@@ -1,0 +1,49 @@
+2025-02-03 13:50:15 - VPN stop...
+2025-02-03 13:50:16 - VPN is succesvol gestopt.
+2025-02-03 13:50:16 - vpnConnector gestart.
+2025-02-03 13:50:16 - 
+Locatie opvragen...
+2025-02-03 13:50:16 - GPS Data ontvangen.
+2025-02-03 13:50:16 - Coördinaten: 52.099004, 4.260751 Het schip is buiten de haven van Scheveningen.
+2025-02-03 13:50:28 - VPN stop...
+2025-02-03 13:50:28 - VPN is succesvol gestopt.
+2025-02-03 13:50:28 - vpnConnector gestart.
+2025-02-03 13:50:28 - 
+Locatie opvragen...
+2025-02-03 13:50:30 - GPS Data ontvangen.
+2025-02-03 13:50:30 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2025-02-03 13:50:30 - VPN start...
+2025-02-03 13:50:31 - VPN succesvol gestart.
+2025-02-03 13:50:41 - geen succesvolle ping ontvangen.
+2025-02-03 13:50:46 - Test 1: Transfer speed: 0 Mb per second
+2025-02-03 13:51:01 - Test 2: Transfer speed: 0 Mb per second
+2025-02-03 13:51:16 - Test 3: Transfer speed: 0 Mb per second
+2025-02-03 13:51:31 - Test 4: Transfer speed: 0 Mb per second
+2025-02-03 13:51:41 - VPN stop...
+2025-02-03 13:51:42 - VPN is succesvol gestopt.
+2025-02-03 13:51:42 - vpnConnector gestart.
+2025-02-03 13:51:42 - 
+Locatie opvragen...
+2025-02-03 13:51:42 - GPS Data ontvangen.
+2025-02-03 13:51:42 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2025-02-03 13:51:42 - VPN start...
+2025-02-03 13:51:43 - VPN succesvol gestart.
+2025-02-03 13:51:43 - Ping tijd: 75 ms.
+2025-02-03 13:51:48 - Test 1: Transfer speed: 892.0 Mb per second
+2025-02-03 13:52:03 - Test 2: Transfer speed: 892.0 Mb per second
+2025-02-03 13:52:18 - Test 3: Transfer speed: 883.0 Mb per second
+2025-02-03 13:52:33 - Test 4: Transfer speed: 882.0 Mb per second
+2025-02-03 13:52:48 - Test 5: Transfer speed: 890.0 Mb per second
+2025-02-03 13:52:58 - [892.0, 892.0, 883.0, 882.0, 890.0]
+2025-02-03 13:52:58 - Gemiddelde snelheid gedurende 5 testen: 887.8 Mb second
+2025-02-03 13:52:58 - Verbinding Stabiel.
+2025-02-03 13:52:58 - producerRMQ gestart...
+2025-02-03 13:52:58 - Error: Unable to access jarfile producerRMQ.jar
+2025-02-03 13:52:58 - Er is een fout opgetreden bij het verzenden van de data.
+Error: Unable to access jarfile producerRMQ.jar
+
+2025-02-03 13:53:08 - 
+Locatie opvragen...
+2025-02-03 13:53:09 - GPS Data ontvangen.
+2025-02-03 13:53:09 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2025-02-03 13:53:09 - Data is al verstuurd
