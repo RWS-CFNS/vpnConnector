@@ -1,0 +1,64 @@
+2025-02-04 14:29:26 - VPN stop...
+2025-02-04 14:29:26 - Er is een fout opgetreden bij het stoppen van VPN.
+Access denied: prefs write access denied
+
+Use 'sudo tailscale down' or 'tailscale up --operator=$USER' to not require root.
+
+2025-02-04 14:29:26 - vpnConnector gestart.
+2025-02-04 14:29:26 - producerRMQ gestart...
+2025-02-04 14:29:26 - Error: Unable to access jarfile producerRMQ.jar
+2025-02-04 14:29:26 - Er is een fout opgetreden bij het verzenden van de data.
+Error: Unable to access jarfile producerRMQ.jar
+
+2025-02-04 14:30:02 - VPN stop...
+2025-02-04 14:30:02 - Er is een fout opgetreden bij het stoppen van VPN.
+Access denied: prefs write access denied
+
+Use 'sudo tailscale down' or 'tailscale up --operator=$USER' to not require root.
+
+2025-02-04 14:30:02 - vpnConnector gestart.
+2025-02-04 14:30:02 - producerRMQ gestart...
+2025-02-04 14:30:03 - Data succesvol verzonden.
+2025-02-04 14:31:20 - VPN stop...
+2025-02-04 14:31:20 - Er is een fout opgetreden bij het stoppen van VPN.
+Access denied: prefs write access denied
+
+Use 'sudo tailscale down' or 'tailscale up --operator=$USER' to not require root.
+
+2025-02-04 14:31:20 - vpnConnector gestart.
+2025-02-04 14:31:20 - producerRMQ gestart...
+2025-02-04 14:31:24 - Error with RabbitMQ: No route to host
+2025-02-04 14:31:24 - Data succesvol verzonden.
+2025-02-04 14:33:55 - VPN stop...
+2025-02-04 14:33:55 - Er is een fout opgetreden bij het stoppen van VPN.
+Access denied: prefs write access denied
+
+Use 'sudo tailscale down' or 'tailscale up --operator=$USER' to not require root.
+
+2025-02-04 14:33:55 - vpnConnector gestart.
+2025-02-04 14:33:55 - producerRMQ gestart...
+2025-02-04 14:33:59 - Error with RabbitMQ: No route to host
+2025-02-04 14:33:59 - Er is een fout opgetreden bij het verzenden van de data.
+Error with RabbitMQ: No route to host
+
+2025-02-04 14:34:27 - VPN stop...
+2025-02-04 14:34:27 - Er is een fout opgetreden bij het stoppen van VPN.
+Access denied: prefs write access denied
+
+Use 'sudo tailscale down' or 'tailscale up --operator=$USER' to not require root.
+
+2025-02-04 14:34:27 - vpnConnector gestart.
+2025-02-04 14:34:27 - producerRMQ gestart...
+2025-02-04 14:34:28 - Data succesvol verzonden.
+2025-02-04 14:34:37 - VPN stop...
+2025-02-04 14:34:37 - Er is een fout opgetreden bij het stoppen van VPN.
+Access denied: prefs write access denied
+
+Use 'sudo tailscale down' or 'tailscale up --operator=$USER' to not require root.
+
+2025-02-04 14:34:37 - vpnConnector gestart.
+2025-02-04 14:34:37 - producerRMQ gestart...
+2025-02-04 14:34:37 - Error with RabbitMQ: ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.
+2025-02-04 14:34:37 - Er is een fout opgetreden bij het verzenden van de data.
+Error with RabbitMQ: ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile.
+

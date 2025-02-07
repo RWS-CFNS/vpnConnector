@@ -1,0 +1,28 @@
+2025-02-03 10:48:32 - VPN stop...
+2025-02-03 10:48:32 - Er is een fout opgetreden bij het stoppen van VPN.
+Access denied: prefs write access denied
+
+Use 'sudo tailscale down' or 'tailscale up --operator=$USER' to not require root.
+
+2025-02-03 10:48:32 - vpnConnector gestart.
+2025-02-03 10:48:32 - 
+Locatie opvragen...
+2025-02-03 10:48:42 - Geen GPS data ontvangen
+2025-02-03 13:13:16 - VPN stop...
+2025-02-03 13:13:16 - Er is een fout opgetreden bij het stoppen van VPN.
+Access denied: prefs write access denied
+
+Use 'sudo tailscale down' or 'tailscale up --operator=$USER' to not require root.
+
+2025-02-03 13:13:16 - vpnConnector gestart.
+2025-02-03 13:13:16 - 
+Locatie opvragen...
+2025-02-03 13:13:16 - GPS Data ontvangen.
+2025-02-03 13:13:16 - Coördinaten: 52.099015, 4.264059 Het schip is in de haven van Scheveningen.
+2025-02-03 13:13:16 - VPN start...
+2025-02-03 13:13:16 - Fout bij het verbinden van VPN
+Access denied: prefs write access denied
+
+Use 'sudo tailscale up --ssh' or 'tailscale up --operator=$USER' to not require root.
+
+2025-02-03 13:13:21 - Test 1: Transfer speed: 0 Mb per second

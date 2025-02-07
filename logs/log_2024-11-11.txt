@@ -1,0 +1,695 @@
+2024-11-11 10:57:30 - vpnConnector gestart.
+2024-11-11 10:57:30 - 
+Locatie opvragen...
+2024-11-11 10:57:31 - GPS Data ontvangen.
+2024-11-11 10:57:31 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 10:57:31 - WireGuard VPN start...
+2024-11-11 10:57:31 - Fout bij het verbinden van WireGuard VPN
+wg-quick: `/etc/wireguard/NUCB.conf.conf' does not exist
+
+2024-11-11 10:57:31 - Error parsing JSON: null
+2024-11-11 10:57:41 - 
+Locatie opvragen...
+2024-11-11 10:57:42 - GPS Data ontvangen.
+2024-11-11 10:57:42 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 10:57:42 - Error parsing JSON: null
+2024-11-11 10:57:52 - 
+Locatie opvragen...
+2024-11-11 10:57:53 - GPS Data ontvangen.
+2024-11-11 10:57:53 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 10:57:53 - Error parsing JSON: null
+2024-11-11 10:58:03 - 
+Locatie opvragen...
+2024-11-11 10:58:04 - GPS Data ontvangen.
+2024-11-11 10:58:04 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 10:58:04 - Error parsing JSON: null
+2024-11-11 10:58:14 - 
+Locatie opvragen...
+2024-11-11 10:58:15 - GPS Data ontvangen.
+2024-11-11 10:58:15 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 10:58:15 - Error parsing JSON: null
+2024-11-11 10:58:25 - 
+Locatie opvragen...
+2024-11-11 10:58:26 - GPS Data ontvangen.
+2024-11-11 10:58:26 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 10:58:26 - Error parsing JSON: null
+2024-11-11 10:58:36 - 
+Locatie opvragen...
+2024-11-11 10:58:37 - GPS Data ontvangen.
+2024-11-11 10:58:37 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 10:58:37 - Error parsing JSON: null
+2024-11-11 10:58:47 - 
+Locatie opvragen...
+2024-11-11 10:58:48 - GPS Data ontvangen.
+2024-11-11 10:58:48 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 10:58:48 - Error parsing JSON: null
+2024-11-11 10:58:58 - 
+Locatie opvragen...
+2024-11-11 10:58:59 - GPS Data ontvangen.
+2024-11-11 10:58:59 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 10:58:59 - Error parsing JSON: null
+2024-11-11 10:59:09 - 
+Locatie opvragen...
+2024-11-11 10:59:10 - GPS Data ontvangen.
+2024-11-11 10:59:10 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 10:59:10 - Error parsing JSON: null
+2024-11-11 10:59:20 - 
+Locatie opvragen...
+2024-11-11 10:59:21 - GPS Data ontvangen.
+2024-11-11 10:59:21 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 10:59:21 - Error parsing JSON: null
+2024-11-11 10:59:31 - 
+Locatie opvragen...
+2024-11-11 10:59:32 - GPS Data ontvangen.
+2024-11-11 10:59:32 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 10:59:32 - Error parsing JSON: null
+2024-11-11 10:59:42 - 
+Locatie opvragen...
+2024-11-11 10:59:43 - GPS Data ontvangen.
+2024-11-11 10:59:43 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 10:59:43 - Error parsing JSON: null
+2024-11-11 10:59:53 - 
+Locatie opvragen...
+2024-11-11 10:59:54 - GPS Data ontvangen.
+2024-11-11 10:59:54 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 10:59:54 - Error parsing JSON: null
+2024-11-11 11:00:04 - 
+Locatie opvragen...
+2024-11-11 11:00:05 - GPS Data ontvangen.
+2024-11-11 11:00:05 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:00:05 - Error parsing JSON: null
+2024-11-11 11:00:07 - vpnConnector gestart.
+2024-11-11 11:00:07 - 
+Locatie opvragen...
+2024-11-11 11:00:08 - GPS Data ontvangen.
+2024-11-11 11:00:08 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:00:08 - WireGuard VPN start...
+2024-11-11 11:00:08 - Configuratiebestand niet gevonden: NUCB
+2024-11-11 11:00:08 - Error parsing JSON: null
+2024-11-11 11:01:13 - vpnConnector gestart.
+2024-11-11 11:01:13 - 
+Locatie opvragen...
+2024-11-11 11:01:14 - GPS Data ontvangen.
+2024-11-11 11:01:14 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:01:14 - WireGuard VPN start...
+2024-11-11 11:01:14 - Configuratiebestand niet gevonden: NUCB
+2024-11-11 11:01:14 - Error parsing JSON: null
+2024-11-11 11:01:24 - 
+Locatie opvragen...
+2024-11-11 11:01:25 - GPS Data ontvangen.
+2024-11-11 11:01:25 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:01:25 - Error parsing JSON: null
+2024-11-11 11:01:30 - vpnConnector gestart.
+2024-11-11 11:01:30 - 
+Locatie opvragen...
+2024-11-11 11:01:31 - GPS Data ontvangen.
+2024-11-11 11:01:31 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:01:31 - WireGuard VPN start...
+2024-11-11 11:01:31 - Fout bij het verbinden van WireGuard VPN
+wg-quick: `/etc/wireguard/NUCB.conf.conf' does not exist
+
+2024-11-11 11:01:31 - Error parsing JSON: null
+2024-11-11 11:01:41 - 
+Locatie opvragen...
+2024-11-11 11:01:42 - GPS Data ontvangen.
+2024-11-11 11:01:42 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:01:42 - Error parsing JSON: null
+2024-11-11 11:01:52 - 
+Locatie opvragen...
+2024-11-11 11:01:53 - GPS Data ontvangen.
+2024-11-11 11:01:53 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:01:53 - Error parsing JSON: null
+2024-11-11 11:02:03 - 
+Locatie opvragen...
+2024-11-11 11:02:04 - GPS Data ontvangen.
+2024-11-11 11:02:04 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:02:04 - Error parsing JSON: null
+2024-11-11 11:02:14 - 
+Locatie opvragen...
+2024-11-11 11:02:15 - GPS Data ontvangen.
+2024-11-11 11:02:15 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:02:15 - Error parsing JSON: null
+2024-11-11 11:02:25 - 
+Locatie opvragen...
+2024-11-11 11:02:26 - GPS Data ontvangen.
+2024-11-11 11:02:26 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:02:26 - Error parsing JSON: null
+2024-11-11 11:02:36 - 
+Locatie opvragen...
+2024-11-11 11:02:37 - GPS Data ontvangen.
+2024-11-11 11:02:37 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:02:37 - Error parsing JSON: null
+2024-11-11 11:02:47 - 
+Locatie opvragen...
+2024-11-11 11:02:48 - GPS Data ontvangen.
+2024-11-11 11:02:48 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:02:48 - Error parsing JSON: null
+2024-11-11 11:02:58 - vpnConnector gestart.
+2024-11-11 11:02:58 - 
+Locatie opvragen...
+2024-11-11 11:02:59 - GPS Data ontvangen.
+2024-11-11 11:02:59 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:02:59 - WireGuard VPN start...
+2024-11-11 11:02:59 - Configuratiebestand niet gevonden: NUCB.
+2024-11-11 11:02:59 - Error parsing JSON: null
+2024-11-11 11:03:16 - vpnConnector gestart.
+2024-11-11 11:03:16 - 
+Locatie opvragen...
+2024-11-11 11:03:17 - GPS Data ontvangen.
+2024-11-11 11:03:17 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:03:17 - WireGuard VPN start...
+2024-11-11 11:03:17 - Fout bij het verbinden van WireGuard VPN
+wg-quick: `/etc/wireguard/NUCB.conf.conf' does not exist
+
+2024-11-11 11:03:17 - Error parsing JSON: null
+2024-11-11 11:03:54 - vpnConnector gestart.
+2024-11-11 11:03:54 - 
+Locatie opvragen...
+2024-11-11 11:03:55 - GPS Data ontvangen.
+2024-11-11 11:03:55 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:03:55 - WireGuard VPN start...
+2024-11-11 11:03:55 - Configuratiebestand niet gevonden: NUCB
+2024-11-11 11:03:55 - Error parsing JSON: null
+2024-11-11 11:04:05 - 
+Locatie opvragen...
+2024-11-11 11:04:06 - GPS Data ontvangen.
+2024-11-11 11:04:06 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:04:06 - Error parsing JSON: null
+2024-11-11 11:05:38 - vpnConnector gestart.
+2024-11-11 11:05:38 - 
+Locatie opvragen...
+2024-11-11 11:05:39 - GPS Data ontvangen.
+2024-11-11 11:05:39 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:05:39 - WireGuard VPN start...
+2024-11-11 11:05:39 - VPN succesvol gestart.
+2024-11-11 11:05:39 - Ping tijd: 26 ms.
+2024-11-11 11:05:39 - Error parsing JSON: null
+2024-11-11 11:05:49 - 
+Locatie opvragen...
+2024-11-11 11:05:50 - GPS Data ontvangen.
+2024-11-11 11:05:50 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:05:50 - Error parsing JSON: null
+2024-11-11 11:06:00 - 
+Locatie opvragen...
+2024-11-11 11:06:01 - GPS Data ontvangen.
+2024-11-11 11:06:01 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:06:01 - Error parsing JSON: null
+2024-11-11 11:06:11 - 
+Locatie opvragen...
+2024-11-11 11:06:12 - GPS Data ontvangen.
+2024-11-11 11:06:12 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:06:12 - Error parsing JSON: null
+2024-11-11 11:06:22 - 
+Locatie opvragen...
+2024-11-11 11:06:23 - GPS Data ontvangen.
+2024-11-11 11:06:23 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:06:23 - Error parsing JSON: null
+2024-11-11 11:06:33 - 
+Locatie opvragen...
+2024-11-11 11:06:34 - GPS Data ontvangen.
+2024-11-11 11:06:34 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:06:34 - Error parsing JSON: null
+2024-11-11 11:06:44 - 
+Locatie opvragen...
+2024-11-11 11:06:45 - GPS Data ontvangen.
+2024-11-11 11:06:45 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:06:45 - Error parsing JSON: null
+2024-11-11 11:06:55 - 
+Locatie opvragen...
+2024-11-11 11:06:56 - GPS Data ontvangen.
+2024-11-11 11:06:56 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:06:56 - Error parsing JSON: null
+2024-11-11 11:07:06 - 
+Locatie opvragen...
+2024-11-11 11:07:07 - GPS Data ontvangen.
+2024-11-11 11:07:07 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:07:07 - Error parsing JSON: null
+2024-11-11 11:07:17 - 
+Locatie opvragen...
+2024-11-11 11:07:18 - GPS Data ontvangen.
+2024-11-11 11:07:18 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:07:18 - Error parsing JSON: null
+2024-11-11 11:07:28 - 
+Locatie opvragen...
+2024-11-11 11:07:29 - GPS Data ontvangen.
+2024-11-11 11:07:29 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:07:29 - Error parsing JSON: null
+2024-11-11 11:07:39 - 
+Locatie opvragen...
+2024-11-11 11:07:49 - Geen GPS data ontvangen
+2024-11-11 11:07:49 - WireGuard VPN stop...
+2024-11-11 11:07:49 - WireGuard VPN is succesvol gestopt.
+2024-11-11 11:07:59 - 
+Locatie opvragen...
+2024-11-11 11:08:01 - Fout bij het ophalen van GPS-gegevens: No route to host
+2024-11-11 11:08:01 - Fout bij het ophalen van GPS-gegevens: No route to host
+2024-11-11 11:08:11 - 
+Locatie opvragen...
+2024-11-11 11:08:14 - Fout bij het ophalen van GPS-gegevens: No route to host
+2024-11-11 11:08:24 - 
+Locatie opvragen...
+2024-11-11 11:08:27 - Fout bij het ophalen van GPS-gegevens: No route to host
+2024-11-11 11:08:37 - 
+Locatie opvragen...
+2024-11-11 11:08:40 - Fout bij het ophalen van GPS-gegevens: No route to host
+2024-11-11 11:08:50 - 
+Locatie opvragen...
+2024-11-11 11:08:53 - Fout bij het ophalen van GPS-gegevens: No route to host
+2024-11-11 11:09:01 - vpnConnector gestart.
+2024-11-11 11:09:01 - 
+Locatie opvragen...
+2024-11-11 11:09:04 - Fout bij het ophalen van GPS-gegevens: No route to host
+2024-11-11 11:37:39 - vpnConnector gestart.
+2024-11-11 11:37:39 - 
+Locatie opvragen...
+2024-11-11 11:37:40 - GPS Data ontvangen.
+2024-11-11 11:37:40 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:37:40 - WireGuard VPN start...
+2024-11-11 11:37:40 - VPN succesvol gestart.
+2024-11-11 11:37:40 - Ping tijd: 34 ms.
+2024-11-11 11:37:40 - Error parsing JSON: null
+2024-11-11 11:37:50 - 
+Locatie opvragen...
+2024-11-11 11:37:51 - GPS Data ontvangen.
+2024-11-11 11:37:51 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:37:51 - Error parsing JSON: null
+2024-11-11 11:38:01 - 
+Locatie opvragen...
+2024-11-11 11:38:02 - GPS Data ontvangen.
+2024-11-11 11:38:02 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:38:02 - Error parsing JSON: null
+2024-11-11 11:39:13 - vpnConnector gestart.
+2024-11-11 11:39:13 - 
+Locatie opvragen...
+2024-11-11 11:39:13 - GPS Data ontvangen.
+2024-11-11 11:39:13 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:39:13 - WireGuard VPN start...
+2024-11-11 11:39:13 - Fout bij het verbinden van WireGuard VPN
+wg-quick: `NUCB' already exists
+
+2024-11-11 11:39:13 - Error parsing JSON: null
+2024-11-11 11:39:23 - 
+Locatie opvragen...
+2024-11-11 11:39:24 - GPS Data ontvangen.
+2024-11-11 11:39:24 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:39:24 - Error parsing JSON: null
+2024-11-11 11:42:36 - vpnConnector gestart.
+2024-11-11 11:42:36 - 
+Locatie opvragen...
+2024-11-11 11:42:37 - GPS Data ontvangen.
+2024-11-11 11:42:37 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:42:37 - WireGuard VPN start...
+2024-11-11 11:42:37 - Fout bij het verbinden van WireGuard VPN
+wg-quick: `NUCB' already exists
+
+2024-11-11 11:42:37 - Error parsing JSON: null
+2024-11-11 11:42:47 - 
+Locatie opvragen...
+2024-11-11 11:42:48 - GPS Data ontvangen.
+2024-11-11 11:42:48 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:42:48 - Error parsing JSON: null
+2024-11-11 11:48:29 - vpnConnector gestart.
+2024-11-11 11:48:29 - 
+Locatie opvragen...
+2024-11-11 11:48:30 - GPS Data ontvangen.
+2024-11-11 11:48:30 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:48:30 - WireGuard VPN start...
+2024-11-11 11:48:30 - Fout bij het verbinden van WireGuard VPN
+wg-quick: `NUCB' already exists
+
+2024-11-11 11:48:30 - Error parsing JSON: null
+2024-11-11 11:48:40 - 
+Locatie opvragen...
+2024-11-11 11:48:41 - GPS Data ontvangen.
+2024-11-11 11:48:41 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:48:41 - Error parsing JSON: null
+2024-11-11 11:51:00 - vpnConnector gestart.
+2024-11-11 11:51:00 - 
+Locatie opvragen...
+2024-11-11 11:51:01 - GPS Data ontvangen.
+2024-11-11 11:51:01 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:51:01 - WireGuard VPN start...
+2024-11-11 11:51:01 - Fout bij het verbinden van WireGuard VPN
+wg-quick: `NUCB' already exists
+
+2024-11-11 11:51:01 - Error parsing JSON: null
+2024-11-11 11:55:26 - vpnConnector gestart.
+2024-11-11 11:55:26 - 
+Locatie opvragen...
+2024-11-11 11:55:26 - GPS Data ontvangen.
+2024-11-11 11:55:26 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:55:26 - WireGuard VPN start...
+2024-11-11 11:55:26 - Fout bij het verbinden van WireGuard VPN
+wg-quick: `NUCB' already exists
+
+2024-11-11 11:55:26 - Error parsing JSON: null
+2024-11-11 11:58:34 - vpnConnector gestart.
+2024-11-11 11:58:34 - 
+Locatie opvragen...
+2024-11-11 11:58:35 - GPS Data ontvangen.
+2024-11-11 11:58:35 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:58:35 - WireGuard VPN start...
+2024-11-11 11:58:35 - Fout bij het verbinden van WireGuard VPN
+wg-quick: `NUCB' already exists
+
+2024-11-11 11:58:35 - Geen uitvoer van iperf3. Controleer de verbinding.
+2024-11-11 11:58:48 - vpnConnector gestart.
+2024-11-11 11:58:48 - 
+Locatie opvragen...
+2024-11-11 11:58:49 - GPS Data ontvangen.
+2024-11-11 11:58:49 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:58:49 - WireGuard VPN start...
+2024-11-11 11:58:49 - Fout bij het verbinden van WireGuard VPN
+wg-quick: `NUCB' already exists
+
+2024-11-11 11:58:50 - Test 1: Transfer speed: 69.0 MB per second
+2024-11-11 11:59:01 - Test 2: Transfer speed: 72.0 MB per second
+2024-11-11 11:59:12 - Test 3: Transfer speed: 73.0 MB per second
+2024-11-11 11:59:23 - Test 4: Transfer speed: 73.0 MB per second
+2024-11-11 11:59:34 - Test 5: Transfer speed: 73.0 MB per second
+2024-11-11 11:59:44 - [69.0, 72.0, 73.0, 73.0, 73.0]
+2024-11-11 11:59:44 - Gemiddelde snelheid gedurende 5 testen: 72.0 MB second
+2024-11-11 11:59:44 - Verbinding Stabiel.
+2024-11-11 11:59:44 - producerRMQ gestart...
+2024-11-11 11:59:45 - Data succesvol verzonden.
+2024-11-11 11:59:55 - 
+Locatie opvragen...
+2024-11-11 11:59:56 - GPS Data ontvangen.
+2024-11-11 11:59:56 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 11:59:56 - Data is al verstuurd
+2024-11-11 12:00:06 - 
+Locatie opvragen...
+2024-11-11 12:00:07 - GPS Data ontvangen.
+2024-11-11 12:00:07 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 12:00:07 - Data is al verstuurd
+2024-11-11 12:00:17 - 
+Locatie opvragen...
+2024-11-11 12:00:18 - GPS Data ontvangen.
+2024-11-11 12:00:18 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 12:00:18 - Data is al verstuurd
+2024-11-11 12:00:28 - 
+Locatie opvragen...
+2024-11-11 12:00:29 - GPS Data ontvangen.
+2024-11-11 12:00:29 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 12:00:29 - Data is al verstuurd
+2024-11-11 12:00:39 - 
+Locatie opvragen...
+2024-11-11 12:00:40 - GPS Data ontvangen.
+2024-11-11 12:00:40 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 12:00:40 - Data is al verstuurd
+2024-11-11 12:00:52 - vpnConnector gestart.
+2024-11-11 12:00:52 - 
+Locatie opvragen...
+2024-11-11 12:00:53 - GPS Data ontvangen.
+2024-11-11 12:00:53 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 12:00:53 - WireGuard VPN start...
+2024-11-11 12:00:53 - Fout bij het verbinden van WireGuard VPN
+wg-quick: `NUCB' already exists
+
+2024-11-11 12:00:54 - Test 1: Transfer speed: 70.0 MB per second
+2024-11-11 12:01:41 - vpnConnector gestart.
+2024-11-11 12:01:41 - 
+Locatie opvragen...
+2024-11-11 12:01:42 - GPS Data ontvangen.
+2024-11-11 12:01:42 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 12:01:42 - WireGuard VPN start...
+2024-11-11 12:01:42 - Fout bij het verbinden van WireGuard VPN
+wg-quick: `NUCB' already exists
+
+2024-11-11 12:01:43 - Test 1: Transfer speed: 71.0 MB per second
+2024-11-11 12:01:54 - Test 2: Transfer speed: 71.0 MB per second
+2024-11-11 12:02:05 - Test 3: Transfer speed: 71.0 MB per second
+2024-11-11 12:02:16 - Test 4: Transfer speed: 68.0 MB per second
+2024-11-11 12:02:27 - Test 5: Transfer speed: 71.0 MB per second
+2024-11-11 12:02:37 - [71.0, 71.0, 71.0, 68.0, 71.0]
+2024-11-11 12:02:37 - Gemiddelde snelheid gedurende 5 testen: 70.4 MB second
+2024-11-11 12:02:37 - Verbinding Stabiel.
+2024-11-11 12:02:37 - producerRMQ gestart...
+2024-11-11 12:02:38 - Data succesvol verzonden.
+2024-11-11 12:02:48 - 
+Locatie opvragen...
+2024-11-11 12:02:50 - GPS Data ontvangen.
+2024-11-11 12:02:50 - Coördinaten: 52.101256, 4.267714 Het schip is in de haven van Scheveningen.
+2024-11-11 12:02:50 - Data is al verstuurd
+2024-11-11 12:03:00 - 
+Locatie opvragen...
+2024-11-11 12:03:01 - GPS Data ontvangen.
+2024-11-11 12:03:01 - Coördinaten: 52.098728, 4.263591 Het schip is in de haven van Scheveningen.
+2024-11-11 12:03:01 - Data is al verstuurd
+2024-11-11 12:03:11 - 
+Locatie opvragen...
+2024-11-11 12:03:12 - GPS Data ontvangen.
+2024-11-11 12:03:12 - Coördinaten: 52.100745, 4.257339 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:03:12 - WireGuard VPN stop...
+2024-11-11 12:03:12 - WireGuard VPN is succesvol gestopt.
+2024-11-11 12:03:22 - 
+Locatie opvragen...
+2024-11-11 12:03:23 - GPS Data ontvangen.
+2024-11-11 12:03:23 - Coördinaten: 52.110846, 4.249598 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:03:33 - 
+Locatie opvragen...
+2024-11-11 12:03:34 - GPS Data ontvangen.
+2024-11-11 12:03:34 - Coördinaten: 52.111033, 4.249465 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:03:44 - 
+Locatie opvragen...
+2024-11-11 12:03:45 - GPS Data ontvangen.
+2024-11-11 12:03:45 - Coördinaten: 52.101161, 4.256526 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:03:55 - 
+Locatie opvragen...
+2024-11-11 12:03:56 - GPS Data ontvangen.
+2024-11-11 12:03:56 - Coördinaten: 52.099015, 4.264059 Het schip is in de haven van Scheveningen.
+2024-11-11 12:03:56 - WireGuard VPN start...
+2024-11-11 12:03:56 - VPN succesvol gestart.
+2024-11-11 12:03:56 - Ping tijd: 29 ms.
+2024-11-11 12:03:57 - Test 1: Transfer speed: 73.0 MB per second
+2024-11-11 12:04:08 - Test 2: Transfer speed: 70.0 MB per second
+2024-11-11 12:04:20 - Test 3: Transfer speed: 74.0 MB per second
+2024-11-11 12:04:31 - Test 4: Transfer speed: 71.0 MB per second
+2024-11-11 12:04:42 - Test 5: Transfer speed: 70.0 MB per second
+2024-11-11 12:04:52 - [73.0, 70.0, 74.0, 71.0, 70.0]
+2024-11-11 12:04:52 - Gemiddelde snelheid gedurende 5 testen: 71.6 MB second
+2024-11-11 12:04:52 - Verbinding Stabiel.
+2024-11-11 12:04:52 - producerRMQ gestart...
+2024-11-11 12:04:52 - Data succesvol verzonden.
+2024-11-11 12:05:02 - 
+Locatie opvragen...
+2024-11-11 12:05:03 - GPS Data ontvangen.
+2024-11-11 12:05:03 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 12:05:03 - Data is al verstuurd
+2024-11-11 12:05:13 - 
+Locatie opvragen...
+2024-11-11 12:05:14 - GPS Data ontvangen.
+2024-11-11 12:05:14 - Coördinaten: 52.100732, 4.266859 Het schip is in de haven van Scheveningen.
+2024-11-11 12:05:14 - Data is al verstuurd
+2024-11-11 12:07:57 - vpnConnector gestart.
+2024-11-11 12:07:57 - 
+Locatie opvragen...
+2024-11-11 12:07:57 - GPS Data ontvangen.
+2024-11-11 12:07:57 - Coördinaten: 52.099083, 4.260595 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:08:07 - 
+Locatie opvragen...
+2024-11-11 12:08:08 - GPS Data ontvangen.
+2024-11-11 12:08:08 - Coördinaten: 52.103755, 4.254655 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:11:01 - vpnConnector gestart.
+2024-11-11 12:11:01 - 
+Locatie opvragen...
+2024-11-11 12:11:01 - GPS Data ontvangen.
+2024-11-11 12:11:01 - Coördinaten: 52.112467, 4.248443 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:11:02 - vpnConnector gestart.
+2024-11-11 12:11:02 - 
+Locatie opvragen...
+2024-11-11 12:11:03 - GPS Data ontvangen.
+2024-11-11 12:11:03 - Coördinaten: 52.111033, 4.249465 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:11:11 - 
+Locatie opvragen...
+2024-11-11 12:11:12 - GPS Data ontvangen.
+2024-11-11 12:11:12 - Coördinaten: 52.103092, 4.255133 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:11:13 - 
+Locatie opvragen...
+2024-11-11 12:11:14 - GPS Data ontvangen.
+2024-11-11 12:11:14 - Coördinaten: 52.101161, 4.256526 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:11:22 - 
+Locatie opvragen...
+2024-11-11 12:11:23 - GPS Data ontvangen.
+2024-11-11 12:11:23 - Coördinaten: 52.098086, 4.262544 Het schip is in de haven van Scheveningen.
+2024-11-11 12:11:23 - WireGuard VPN start...
+2024-11-11 12:11:23 - Fout bij het verbinden van WireGuard VPN
+wg-quick: `NUCB' already exists
+
+2024-11-11 12:11:24 - 
+Locatie opvragen...
+2024-11-11 12:11:24 - Test 1: Transfer speed: 71.0 MB per second
+2024-11-11 12:11:25 - GPS Data ontvangen.
+2024-11-11 12:11:25 - Coördinaten: 52.099015, 4.264059 Het schip is in de haven van Scheveningen.
+2024-11-11 12:11:25 - WireGuard VPN start...
+2024-11-11 12:11:25 - Fout bij het verbinden van WireGuard VPN
+wg-quick: `NUCB' already exists
+
+2024-11-11 12:11:26 - Test 1: Transfer speed: 73.0 MB per second
+2024-11-11 12:11:36 - Test 2: Transfer speed: 72.0 MB per second
+2024-11-11 12:11:38 - Test 2: Transfer speed: 70.0 MB per second
+2024-11-11 12:11:47 - Test 3: Transfer speed: 75.0 MB per second
+2024-11-11 12:11:49 - Test 3: Transfer speed: 69.0 MB per second
+2024-11-11 12:11:58 - Test 4: Transfer speed: 72.0 MB per second
+2024-11-11 12:12:00 - Test 4: Transfer speed: 74.0 MB per second
+2024-11-11 12:12:09 - Test 5: Transfer speed: 68.0 MB per second
+2024-11-11 12:12:11 - Test 5: Transfer speed: 64.0 MB per second
+2024-11-11 12:12:19 - [71.0, 72.0, 75.0, 72.0, 68.0]
+2024-11-11 12:12:19 - Gemiddelde snelheid gedurende 5 testen: 71.6 MB second
+2024-11-11 12:12:19 - Verbinding Stabiel.
+2024-11-11 12:12:19 - producerRMQ gestart...
+2024-11-11 12:12:19 - Data succesvol verzonden.
+2024-11-11 12:12:21 - [73.0, 70.0, 69.0, 74.0, 64.0]
+2024-11-11 12:12:21 - Gemiddelde snelheid gedurende 5 testen: 70.0 MB second
+2024-11-11 12:12:21 - Verbinding Stabiel.
+2024-11-11 12:12:21 - producerRMQ gestart...
+2024-11-11 12:12:21 - Data succesvol verzonden.
+2024-11-11 12:12:29 - 
+Locatie opvragen...
+2024-11-11 12:12:30 - GPS Data ontvangen.
+2024-11-11 12:12:30 - Coördinaten: 52.100710, 4.266824 Het schip is in de haven van Scheveningen.
+2024-11-11 12:12:30 - Data is al verstuurd
+2024-11-11 12:12:31 - 
+Locatie opvragen...
+2024-11-11 12:12:32 - GPS Data ontvangen.
+2024-11-11 12:12:32 - Coördinaten: 52.100141, 4.265896 Het schip is in de haven van Scheveningen.
+2024-11-11 12:12:32 - Data is al verstuurd
+2024-11-11 12:12:40 - 
+Locatie opvragen...
+2024-11-11 12:12:41 - GPS Data ontvangen.
+2024-11-11 12:12:41 - Coördinaten: 52.098086, 4.262544 Het schip is in de haven van Scheveningen.
+2024-11-11 12:12:41 - Data is al verstuurd
+2024-11-11 12:12:42 - 
+Locatie opvragen...
+2024-11-11 12:12:43 - GPS Data ontvangen.
+2024-11-11 12:12:43 - Coördinaten: 52.098669, 4.261404 Het schip is in de haven van Scheveningen.
+2024-11-11 12:12:43 - Data is al verstuurd
+2024-11-11 12:12:51 - 
+Locatie opvragen...
+2024-11-11 12:12:52 - GPS Data ontvangen.
+2024-11-11 12:12:52 - Coördinaten: 52.101161, 4.256526 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:12:52 - WireGuard VPN stop...
+2024-11-11 12:12:52 - WireGuard VPN is succesvol gestopt.
+2024-11-11 12:12:53 - 
+Locatie opvragen...
+2024-11-11 12:12:54 - GPS Data ontvangen.
+2024-11-11 12:12:54 - Coördinaten: 52.102473, 4.255579 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:12:54 - WireGuard VPN stop...
+2024-11-11 12:12:54 - Er is een fout opgetreden bij het stoppen van WireGuard VPN.
+wg-quick: `NUCB' is not a WireGuard interface
+
+2024-11-11 12:13:02 - 
+Locatie opvragen...
+2024-11-11 12:13:03 - GPS Data ontvangen.
+2024-11-11 12:13:03 - Coördinaten: 52.114221, 4.247192 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:13:04 - 
+Locatie opvragen...
+2024-11-11 12:13:05 - GPS Data ontvangen.
+2024-11-11 12:13:05 - Coördinaten: 52.115823, 4.246050 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:13:13 - 
+Locatie opvragen...
+2024-11-11 12:13:14 - GPS Data ontvangen.
+2024-11-11 12:13:14 - Coördinaten: 52.112467, 4.248443 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:13:15 - 
+Locatie opvragen...
+2024-11-11 12:13:16 - GPS Data ontvangen.
+2024-11-11 12:13:16 - Coördinaten: 52.112467, 4.248443 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:13:48 - vpnConnector gestart.
+2024-11-11 12:13:48 - 
+Locatie opvragen...
+2024-11-11 12:13:49 - GPS Data ontvangen.
+2024-11-11 12:13:49 - Coördinaten: 52.112467, 4.248443 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:13:59 - 
+Locatie opvragen...
+2024-11-11 12:14:00 - GPS Data ontvangen.
+2024-11-11 12:14:00 - Coördinaten: 52.112467, 4.248443 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:14:10 - 
+Locatie opvragen...
+2024-11-11 12:14:11 - GPS Data ontvangen.
+2024-11-11 12:14:11 - Coördinaten: 52.104937, 4.253810 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:14:21 - 
+Locatie opvragen...
+2024-11-11 12:14:22 - GPS Data ontvangen.
+2024-11-11 12:14:22 - Coördinaten: 52.099004, 4.260751 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:14:32 - 
+Locatie opvragen...
+2024-11-11 12:14:42 - Geen GPS data ontvangen
+2024-11-11 12:14:52 - 
+Locatie opvragen...
+2024-11-11 12:15:02 - Geen GPS data ontvangen
+2024-11-11 12:15:03 - GPS Data ontvangen.
+2024-11-11 12:15:03 - Coördinaten: 52.101014, 4.267320 Het schip is in de haven van Scheveningen.
+2024-11-11 12:15:08 - GPS Data ontvangen.
+2024-11-11 12:15:08 - Coördinaten: 52.099640, 4.265078 Het schip is in de haven van Scheveningen.
+2024-11-11 12:15:12 - 
+Locatie opvragen...
+2024-11-11 12:15:12 - GPS Data ontvangen.
+2024-11-11 12:15:12 - Coördinaten: 52.099015, 4.264059 Het schip is in de haven van Scheveningen.
+2024-11-11 12:15:12 - WireGuard VPN start...
+2024-11-11 12:15:12 - VPN succesvol gestart.
+2024-11-11 12:15:12 - Ping tijd: 35 ms.
+2024-11-11 12:15:13 - Test 1: Transfer speed: 69.0 MB per second
+2024-11-11 12:15:25 - Test 2: Transfer speed: 73.0 MB per second
+2024-11-11 12:15:36 - Test 3: Transfer speed: 72.0 MB per second
+2024-11-11 12:15:47 - Test 4: Transfer speed: 74.0 MB per second
+2024-11-11 12:15:58 - Test 5: Transfer speed: 73.0 MB per second
+2024-11-11 12:16:08 - [69.0, 73.0, 72.0, 74.0, 73.0]
+2024-11-11 12:16:08 - Gemiddelde snelheid gedurende 5 testen: 72.2 MB second
+2024-11-11 12:16:08 - Verbinding Stabiel.
+2024-11-11 12:16:08 - producerRMQ gestart...
+2024-11-11 12:16:08 - Data succesvol verzonden.
+2024-11-11 12:16:18 - 
+Locatie opvragen...
+2024-11-11 12:16:19 - GPS Data ontvangen.
+2024-11-11 12:16:19 - Coördinaten: 52.115823, 4.246050 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:16:19 - WireGuard VPN stop...
+2024-11-11 12:16:19 - WireGuard VPN is succesvol gestopt.
+2024-11-11 12:16:29 - 
+Locatie opvragen...
+2024-11-11 12:16:30 - GPS Data ontvangen.
+2024-11-11 12:16:30 - Coördinaten: 52.106998, 4.252341 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:17:39 - vpnConnector gestart.
+2024-11-11 12:17:39 - 
+Locatie opvragen...
+2024-11-11 12:17:40 - GPS Data ontvangen.
+2024-11-11 12:17:40 - Coördinaten: 52.114442, 4.247035 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:17:50 - 
+Locatie opvragen...
+2024-11-11 12:17:51 - GPS Data ontvangen.
+2024-11-11 12:17:51 - Coördinaten: 52.107918, 4.251685 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:18:01 - 
+Locatie opvragen...
+2024-11-11 12:18:02 - GPS Data ontvangen.
+2024-11-11 12:18:02 - Coördinaten: 52.099911, 4.258975 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:18:12 - 
+Locatie opvragen...
+2024-11-11 12:18:13 - GPS Data ontvangen.
+2024-11-11 12:18:13 - Coördinaten: 52.100350, 4.266237 Het schip is in de haven van Scheveningen.
+2024-11-11 12:18:13 - WireGuard VPN start...
+2024-11-11 12:18:13 - VPN succesvol gestart.
+2024-11-11 12:18:13 - Ping tijd: 29 ms.
+2024-11-11 12:18:14 - Test 1: Transfer speed: 73.0 MB per second
+2024-11-11 12:18:25 - Test 2: Transfer speed: 73.0 MB per second
+2024-11-11 12:18:36 - Test 3: Transfer speed: 72.0 MB per second
+2024-11-11 12:18:47 - Test 4: Transfer speed: 70.0 MB per second
+2024-11-11 12:18:58 - Test 5: Transfer speed: 71.0 MB per second
+2024-11-11 12:19:08 - [73.0, 73.0, 72.0, 70.0, 71.0]
+2024-11-11 12:19:08 - Gemiddelde snelheid gedurende 5 testen: 71.8 MB second
+2024-11-11 12:19:08 - Verbinding Stabiel.
+2024-11-11 12:19:08 - producerRMQ gestart...
+2024-11-11 12:19:09 - Data succesvol verzonden.
+2024-11-11 12:19:19 - 
+Locatie opvragen...
+2024-11-11 12:19:19 - GPS Data ontvangen.
+2024-11-11 12:19:19 - Coördinaten: 52.098941, 4.264196 Het schip is in de haven van Scheveningen.
+2024-11-11 12:19:19 - Data is al verstuurd
+2024-11-11 12:19:29 - 
+Locatie opvragen...
+2024-11-11 12:19:30 - GPS Data ontvangen.
+2024-11-11 12:19:30 - Coördinaten: 52.099958, 4.258883 Het schip is buiten de haven van Scheveningen.
+2024-11-11 12:19:30 - WireGuard VPN stop...
+2024-11-11 12:19:30 - WireGuard VPN is succesvol gestopt.
+2024-11-11 12:19:40 - 
+Locatie opvragen...
+2024-11-11 12:19:41 - GPS Data ontvangen.
+2024-11-11 12:19:41 - Coördinaten: 52.107259, 4.252155 Het schip is buiten de haven van Scheveningen.
