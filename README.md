@@ -7,3 +7,6 @@ config.properties
 VPNconnector.properties
 
 om het programma te draaien, navigeer naar de plek waar deze 4 bestanden staan en gebruik: sudo java -jar vpnConnector.jar
+
+## System Architecture Overview
+![Integration with other CFNS systems](integrationVpnConnector.png)
