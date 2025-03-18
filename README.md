@@ -13,7 +13,7 @@
   <h3 align="center">VPN-Connector</h3>
 
   <p align="center">
-    Retrieves/Consumes data that has been send by a RabbitMQ Producer.
+    The program establishes a Tailscale VPN connection, checks if the device is within a specified geographic area using GPS, tests the network speed, and sends data if all conditions are met.
     <br />
     <a href="https://github.com/RWS-CFNS/vpnConnector"><strong>Explore the docs »</strong></a>
     <br />
