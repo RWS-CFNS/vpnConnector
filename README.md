@@ -130,8 +130,8 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[license-shield]: https://img.shields.io/github/license/RWS-CFNS/vpnConnector.svg?style=for-the-badge
-[license-url]: https://github.com/RWS-CFNS/vpnConnector/blob/main/LICENSE
+[license-shield]: https://img.shields.io/github/license/RWS-CFNS/vpnconnector.svg?style=for-the-badge
+[license-url]: https://github.com/RWS-CFNS/vpnconnector/blob/main/LICENSE
 
 [intellijidea.org]: https://img.shields.io/badge/intellijidea-D952FF?style=for-the-badge&logo=intellijidea&logoColor=white
 [intellijidea-url]: https://jetbrains.com/
