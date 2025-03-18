@@ -57,8 +57,6 @@ Key Features
 * Data Transmission: Runs an external JAR (DATA_SENDER_JAR) to send data, confirming success via logs.
 * Logging & Error Handling: Maintains timestamped logs and handles errors for VPN, GPS, and data transmission.
 
-Use the `BLANK_README.md` to get started.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
